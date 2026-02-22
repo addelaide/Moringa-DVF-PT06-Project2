@@ -19,14 +19,14 @@ ultimately visualization.</li></ul>
 <li>Maize crop area and Sorghum crop area shape files</li>
 <li>Karamoja crop and population data</li></ul>
 <h2>Key Objectives</h2>
-  <p>Identify dominant crops</p>
-<p>Establish if Population density has influence on yield.</p>
-<p>Establish the most productive areas(Districts and subcounties)</p>
+  <ul></ul><li>Identify dominant crops</li>
+<li>Establish if Population density has influence on yield.</li>
+<li>Establish the most productive areas(Districts and subcounties)</li></ul>
   <h2>Key Findings</h2>
  <ul><li>Crop dominance is not even across the Karamoja regions.Some specialize in
 maize while others in sorghum.</li>
 <li>Production is not dependant on the land size.</li>
-<li></li>Agricultural yield is not relative to population,It varies per region.</li>
+<li>Agricultural yield is not relative to population,It varies per region.</li>
 <li>Production per capita varies with some counties showing food security while
 others show signs of insecurity</li>
    <h2>Summary of Karamoja Dashboard</h2>
