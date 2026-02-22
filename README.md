@@ -7,5 +7,6 @@ historically isolated region.Karamoja has agricultural activities with the most
 dominant crops being Sorghum and Maize</p>
 <p>This project analyzes maize and sorghum production in Karamoja, Uganda, comparing crop yields with population and land area across the region. Using Python and the provided data, we  identify high and low performing areas, and examine key metrics such as yield per capita and total production. 
 </p>
-<P>This repository is composed of:<ul><li>CSV data files,i.e cleaned subcounty data and shapefiles in the data folder</li><li>Images folder composed of screenshots of the work done for illustration</li>
-<li>Tableau dashboard for the created visuals</li><li>Karamoja jupyter notebook file </li><li>Presentation slides in pdf</li></P></P>
+<P>This repository is composed of:<ul><li>CSV data files,i.e cleaned subcounty data (karamoja_subcounty_cleaned.csv) and shapefiles in the data folder</li><li>Images folder composed of screenshots of the work done for illustration</li>
+<li>Tableau dashboard for the created visuals(Project2karamoja-tab.twb)</li><li>Karamoja jupyter notebook file(Karamojafoodsecurity.ipynb) </li><li>Presentation slides in pdf(Karamoja Food security analysis-presentation.pdf)
+)</li></P>
